@@ -1,0 +1,35 @@
+site_name: Progettazione di software interattivi
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette:
+   - scheme: default 
+     primary: blue
+     toggle: 
+       icon: material/weather-night
+       name: Scuro     
+   - scheme: slate 
+     primary: black
+     accent: orange
+     toggle: 
+       icon: material/weather-sunny
+       name: Chiaro   
+
+  features:
+    - navigation.instant 
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tabs.sticky     
+    - navigation.instant.preview
+
+nav:
+  - Home: index.md
+
+  - Documentazione:
+    - Graffiti: PiazzaGaribaldi/Progetto.md
+
+  - Biografia:
+    - Studi: Biografia/Biografia.md  
+
+  - Altri progetti:
+    - Reportage: Altriprogetti/Reportage.md
