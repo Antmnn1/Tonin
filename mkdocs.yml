@@ -2,6 +2,8 @@ site_name: Progettazione di software interattivi
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  icon:
+   logo: fontawesome/solid/a 
   palette:
    - scheme: default 
      primary: blue
@@ -33,3 +35,8 @@ nav:
 
   - Altri progetti:
     - Reportage: Altriprogetti/Reportage.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption    
