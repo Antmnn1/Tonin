@@ -1,1 +1,4 @@
 # Reportage
+Con il termine del lavoro su Procida 2024, si è presentata la necessità di voler scrivere su carta tutto il processo che ci ha portato fino ad oggi con mistake.
+Abbiamo iniziato il progetto a settembre ed è proseguito in tutto l'anno, il reportage parte parlando dal tedx del 2019 dove avvenne il primo incontro con Marco Salvemini, passando per Zzz, Non Io Ma Noi e infine per poi arrivare a Noi Umani.
+Una delle prime cose su cui abbiamo lavorato è il modo con cui voler riportare il processo, l'esperienza e i dati. A differenza di un semplice report, il reportage non si limita a riportare fatti e dati, ma integra anche un aspetto emotivo e sensoriale, coinvolgendo chi lo legge attraverso impressioni, dettagli visivi e sensazioni vissute. 
