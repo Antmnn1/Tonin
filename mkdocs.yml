@@ -1,22 +1,22 @@
 site_name: Progettazione di software interattivi
 site_url: https://mydomain.org/mysite
+
 theme:
   name: material
   icon:
-   logo: fontawesome/solid/a 
+    logo: fontawesome/solid/a 
   palette:
-   - scheme: default 
-     primary: blue
-     toggle: 
-       icon: material/weather-night
-       name: Scuro     
-   - scheme: slate 
-     primary: black
-     accent: orange
-     toggle: 
-       icon: material/weather-sunny
-       name: Chiaro   
-
+    - scheme: default 
+      primary: blue
+      toggle: 
+        icon: material/weather-night
+        name: Scuro     
+    - scheme: slate 
+      primary: black
+      accent: orange
+      toggle: 
+        icon: material/weather-sunny
+        name: Chiaro   
   features:
     - navigation.instant 
     - navigation.instant.progress
@@ -31,60 +31,15 @@ theme:
 nav:
   - Home: index.md
   - Progetto:
-    - Titoloprogetto: project1/project.md
-      
-  - Documentazione:
-    - Sperimentazioni: Documentazione/Progetto.md
-
+      - Titoloprogetto: project1/project.md
+  - Documentazioni:
+      - Sperimentazioni: Documentazione/sperimentazione.md
   - Biografia:
-    - Studi: Biografia/Biografia.md  
-
+      - Studi: Biografia/Biografia.md  
   - Altri progetti:
-    - Reportage: Altriprogetti/Reportage.md
+      - Reportage: Altriprogetti/Reportage.md
 
 markdown_extensions:
   - attr_list
   - md_in_html
-  
-site_name: Progettazione di software interattivi
-site_url: https://mydomain.org/mysite
-theme:
-  name: material
-  icon:
-   logo: fontawesome/solid/a 
-  palette:
-   - scheme: default 
-     primary: blue
-     toggle: 
-       icon: material/weather-night
-       name: Scuro     
-   - scheme: slate 
-     primary: black
-     accent: orange
-     toggle: 
-       icon: material/weather-sunny
-       name: Chiaro   
-
-  features:
-    - navigation.instant 
-    - navigation.instant.progress
-    - navigation.tabs
-    - navigation.tabs.sticky     
-    - navigation.instant.preview
-
-nav:
-  - Home: index.md
-
-  - Documentazione:
-    - Graffiti: PiazzaGaribaldi/Progetto.md
-
-  - Biografia:
-    - Studi: Biografia/Biografia.md  
-
-  - Altri progetti:
-    - Reportage: Altriprogetti/Reportage.md
-
-markdown_extensions:
-  - attr_list
-  - md_in_html
-  - pymdownx.blocks.caption    
+  - pymdownx.blocks.caption
