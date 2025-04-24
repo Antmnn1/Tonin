@@ -23,12 +23,18 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky     
     - navigation.instant.preview
+    - navigation.tracking
+    - navigation.sections
+    - toc.integrate
+    - navigation.expand
 
 nav:
   - Home: index.md
-
+  - Progetto:
+    - Titoloprogetto: project1/project.md
+      
   - Documentazione:
-    - Graffiti: PiazzaGaribaldi/Progetto.md
+    - Sperimentazioni: Documentazione/Progetto.md
 
   - Biografia:
     - Studi: Biografia/Biografia.md  
