@@ -11,34 +11,3 @@ Un altro aspetto evidente è la percezione della popolazione locale nei confront
 ![graffiti4](../img/IMG_20250120_112113560_HDR.jpg){ width=230 height=200 }
 ![graffiti5](../img/IMG_3091.jpg){ width=200 height=200 }
 ![graffiti6](../img/IMG_8771.jpg){ width=230 height=200 }
-
-## Frottage
-L’idea era quella di realizzare un censimento completo di tutti gli alberi presenti nella Piazza, che però sono più di cinquanta. A partire da questa scoperta, abbiamo iniziato a sperimentare una tecnica di registrazione visiva piuttosto semplice e immediata: il frottage.
-
-Il procedimento è intuitivo: si avvolge un telo attorno al tronco dell’albero e, utilizzando un rullo imbevuto di inchiostro a base d’acqua, si passa sulla superficie. In questo modo, l’inchiostro evidenzia solo le parti in rilievo del tronco, restituendo una trama visiva unica e irripetibile.
-
-Con il tempo, però, abbiamo sentito la necessità di trovare un formato più tascabile e immediato. È così che siamo passati all’uso di cartoncini A5. Perché questo cambiamento? Nonostante il frottage su telo fosse efficace per creare relazione con gli abitanti della piazza (coinvolgendoli direttamente nel gesto) presentava anche diverse limitazioni tecniche: i tempi di asciugatura, il trasporto dei materiali e, soprattutto, il fatto che l’opera realizzata non poteva essere lasciata a chi vi aveva partecipato.
-
-Con i cartoncini A5, invece, non solo è più semplice restituire subito un segno tangibile a chi prende parte all’azione, ma si aprono anche possibilità più ricche dal punto di vista espressivo. È possibile, ad esempio, selezionare solo una porzione di texture, concentrarsi su dettagli, o sovrapporre più tracce in modo creativo. Inoltre, questo formato ci ha permesso di sperimentare nuove tecniche di frottage, utilizzando materiali diversi come:
-
-Pastelli a cera
-Pastelli a olio
-Argilla industriale
-E soprattutto un’argilla artigianale fatta in casa
-
-La realizzazione di quest’ultima è sorprendentemente semplice: bastano acqua, bicarbonato e amido di mais. Mescolati e scaldati in un pentolino, questi tre ingredienti si trasformano in una pasta densa dalla consistenza perfetta, ideale per creare impronte e texture direttamente sul supporto.
-
-![frott1](../img/FRUTT3.jpg){ width=350 height=350 }
-
-## Panoramica inversa
-Il funzionamento è molto semplice: all’interno di una cartella vanno inseriti due elementi fondamentali 
-il file rinominato panorama.py 
-il video da elaborare, chiamato video.mp4. 
-
-Una volta avviato lo script con il comando:
-
-python panorama.py
-
-il codice eseguirà l’elaborazione automaticamente e salverà il risultato in una cartella secondaria, generata in automatico all'interno della stessa directory. Non sarà necessario intervenire ulteriormente: il file elaborato sarà pronto all’uso.
-
-![paninv](../img/FRUTT7.jpg){ width=1000 height=1000 }
